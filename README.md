@@ -1,1 +1,1 @@
-# RM_OpenCV_Mrityunjay_Shukla
+# This repository contains codes I wrote while learning openCV
